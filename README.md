@@ -31,4 +31,4 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 
 
 
-### Screenshots
+### Screenshots of Excel Dashboard

@@ -35,3 +35,4 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 
 
 
+<img width="506" alt="sales_data pivottables" src="https://github.com/user-attachments/assets/d808ae30-e8f8-404e-a9c7-61a9b7ced65b">

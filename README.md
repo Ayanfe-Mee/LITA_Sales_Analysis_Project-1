@@ -1,4 +1,4 @@
-# LITA_Sales_Analysis_Project-1
+# Sales_Analysis_Project-1
 ### Overview
 This project focuses on Analyzing the sales performance of a retail store. It is to explore sales data to uncover key insights such as top-selling products, regional performances, and monthly sales trends.
 

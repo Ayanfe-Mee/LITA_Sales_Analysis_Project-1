@@ -18,21 +18,9 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 ### Key Features
 - Interactive dashboard using PivotTables.
 - Visual representation of insights found in Excel and SQL
-- Visual dashboard of sales overview, top-performing products, and regional breakdowns.
-
-### Key Insights
-- Shoes generated the most revenue.
-
-
-
-
-
-
-
-
+- Visual dashboard of sales overview, top-performing products, and regional breakdown
 
 ### Screenshots of Excel Dashboard
 
 
 
-<img width="506" alt="sales_data pivottables" src="https://github.com/user-attachments/assets/d808ae30-e8f8-404e-a9c7-61a9b7ced65b">

@@ -1,11 +1,31 @@
-# Sales_Analysis_Project-1
-### Overview
-This project focuses on Analyzing the sales performance of a retail store. It is to explore sales data to uncover key insights such as top-selling products, regional performances, and monthly sales trends.
+# Sales_Data_Analysis_Project
+
+### Project Overview
+
+This project focuses on Analyzing the sales performance of a retail store. It is to uncover key insights, identify trends and provide actionable insights to guide better decision-making and craft data-driven stories. Using statistical method and data visualization to explore what influence regional performance, top-selling or performing products and monthly sales trends.
+
+### Objectives
+
+- Analyse Sales trends to make informed decisions such as to know high and low performing periods.
+- Identify top-performing products and regions contributing to the largest revenue.
+- Understand potential customer segments to develop effective future sales strategies.
 
 ### Tools Used
-- Microsoft Excel (Pivot Table)
-- SQL Server (Query)
-- Power BI (Visualization)
+
+- Microsoft Excel
+  1. Data Cleaning: Removing duplicates, and standardizing formats for consistency.
+  2. Data Exploration: Using pivot tables to organize, summarize, and filter the data for clear interpretation.
+  3. Data Transformation: Using functions and formulas to compute new fields, categorize data, and create basic aggregations.
+  4. Exporting Data: Preparing the cleaned dataset for further analysis in Structured Query Language (SQL) and visualization in Power BI
+
+- Structured Query Language
+   1. Data Retrival: Writing SQL queries to extract relevant datasets for analysis, such as total sales for each product category, number of sales transactions in each region, highest-selling product, total revenue per product, monthly sales total for the current year, top five customers by total purchase amount, percentage of total sales contributed by each region, and products with no sales in the last quarter.
+  
+- Power BI (Business Intelligence)
+  1. Data Integration: Importing and transforming data from Excel and SQL databases, to create a unified data model for analysis.
+  2. Interactive Dashboard: To visualizes the insights found in Excel and SQL which includes a sales overview, top-selling products, and regional breakdowns.
+  3. Data Visualization: Creating various visualizations (E.g Bar charts, pie charts) to highlight important metrics such as total sales, product performance, and customer demograhics.
+  4. StoryTelling with Data: Using visual narratives to guide business owner through findings, emphasizing trends, and actionable insights that can inform business decisions.
 
 ### Dataset
 - Sales Data from Capstone including;

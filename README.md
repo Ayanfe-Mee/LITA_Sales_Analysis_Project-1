@@ -1,4 +1,6 @@
-# Sales_Data_Analysis_Project
+# LITA_Data_Analysis_Class_Project
+
+### Project Title: Retail_Store_Sales_Performance_Analysis
 
 ### Project Overview
 
@@ -28,7 +30,7 @@ This project focuses on Analyzing the sales performance of a retail store. It is
   4. StoryTelling with Data: Using visual narratives to guide business owner through findings, emphasizing trends, and actionable insights that can inform business decisions.
 
 ### Dataset
-- Sales Data from Capstone including;
+- Sales Data from Capstone by LITA_TheIncubator_Hub. It includes 
   1. Products
   2. Region
   3. Quantity

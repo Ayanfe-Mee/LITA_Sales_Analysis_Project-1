@@ -28,14 +28,19 @@ This project focuses on Analyzing the sales performance of a retail store. It is
   2. Interactive Dashboard: To visualizes the insights found in Excel and SQL which includes a sales overview, top-selling products, and regional breakdowns.
   3. Data Visualization: Creating various visualizations (E.g Bar charts, pie charts) to highlight important metrics such as total sales, product performance, and customer demograhics.
   4. StoryTelling with Data: Using visual narratives to guide business owner through findings, emphasizing trends, and actionable insights that can inform business decisions.
+- GitHub: For building of portfolio
 
 ### Dataset
-- Sales Data from Capstone by LITA_TheIncubator_Hub. It includes 
-  1. Products
-  2. Region
-  3. Quantity
-  4. Unitprice
-  5. Customer Information.
+
+- Sales Data from Capstone by LITA_TheIncubator_Hub. It includes; 
+  1. OrderID: This is a unique identifier for each order.
+  2. CustomerID: This is the unique identifier for each customer in the dataset, allowing for tracking customer-specific purchases and behaviors
+  3. Product:
+  4. Region: This is the geographical location where the sale occured.
+  5. OrderDate: This is the date of the order or sales date
+  6. Quantity: It is the number of items sold
+  7. UnitPrice: The price of a single product sold
+  
 
 ### Key Features
 - Interactive dashboard using PivotTables.

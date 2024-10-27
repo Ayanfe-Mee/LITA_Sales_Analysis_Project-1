@@ -34,6 +34,7 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 - GitHub: For building of portfolio
 
 ### Dataset
+---
 
 - Sales Data from Capstone by LITA_TheIncubator_Hub. It includes; 
   1. OrderID: This is a unique identifier for each order.
@@ -46,6 +47,7 @@ This project focuses on Analyzing the sales performance of a retail store. It is
   
 
 ### Key Features
+---
 - Interactive dashboard using PivotTables.
 - Visual representation of insights found in Excel and SQL
 - Visual dashboard of sales overview, top-performing products, and regional breakdown
@@ -56,7 +58,8 @@ Total Revenue by Product, Region, and Month.
 
 <img width="173" alt="Total sale by PRM" src="https://github.com/user-attachments/assets/c3be8fef-ce75-4f70-9b7a-195541616ab0">
 
-
+### Overall Summary
+Observation: This pivot table reveals that product shoes
 Average Sales Per Product and Total Revenue by Region.
 ---
 

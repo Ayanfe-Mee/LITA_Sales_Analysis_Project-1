@@ -60,7 +60,7 @@ Total Revenue by Product, Region, and Month.
 
 ### Overall Summary
 - Observation: This pivot table reveals that shoes leads in sales with a peak in South region, and rise significantly in February which dropped drastically in West region in August, indicating a seasonal demand. Shirt followed with a little difference which did well in East and North regions in July and January respectively.
-- Inferences: Shoes popularity in February sales may have benefited from Valentine's Day or a seasonal promotion that boosted demand, especially when it's suitable for gifting. While shirt high demands in the East region may be due to the seasonal weather which could have increased demand for lighter clothing, and demand in north could be as a result of milder weather in January regardless different regions often have unique fashion preferences or seasonal purchasing habits.
+- Inferences: Shoes popularity in February sales may have benefited from Valentine's Day or a seasonal promotion that boosted demand, especially when it's suitable for gifting. While shirt high demands in the East region may be due to the seasonal weather which could have increased demand for lighter clothing, and demand in north could be as a result of milder weather in January. Regardless different regions often have unique fashion preferences or seasonal purchasing habits.
 - Implications: To depends on these trends, the business owner should consider extending marketing efforts for lower-performing products such as socks, gloves, and jackets. And also focus more on other regions that shoes and shirt are not performing well. Additionally, it is essential for the business owner to prepare adequately for the holiday season with increased online inventory, and hire seasonal workers. 
 
 
@@ -68,6 +68,11 @@ Average Sales Per Product and Total Revenue by Region.
 ---
 
 <img width="255" alt="New Average sale" src="https://github.com/user-attachments/assets/708d7594-173d-4d87-aa4f-37743b564721">
+
+- Observations: Shoes and shirts have the highest average sales, while socks, jackets, hats, and gloves have significantly lower average.
+- Inferences: This may indicate that shoes and shirts are more popular in some regions, possibly due to better marketing, customer preferences or alignment with current trends. Lower averages sales for socks, hats, gloves, and jackets might suggest they are less appealing to customers or 
+
+
 
 
 Percentage of Each Product by Total Revenue.

@@ -37,10 +37,10 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 ### Dataset
 ---
 
-- Sales Data from Capstone by LITA_TheIncubator_Hub. It includes; 
+- Sales Data from Capstone by LITA_TheIncubator_Hub. It includes this key columns; 
   1. OrderID: This is a unique identifier for each order.
   2. CustomerID: This is the unique identifier for each customer in the dataset, allowing for tracking customer-specific purchases and behaviors
-  3. Product:
+  3. Product: This is an item purchased by each customer.
   4. Region: This is the geographical location where the sale occured.
   5. OrderDate: This is the date of the order or sales date
   6. Quantity: It is the number of items sold
@@ -52,6 +52,7 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 - Interactive dashboard using PivotTables.
 - Visual representation of insights found in Excel and SQL
 - Visual dashboard of sales overview, top-performing products, and regional breakdown
+
 
 ### Screenshots of Excel Dashboard
 Total Revenue by Product, Region, and Month.

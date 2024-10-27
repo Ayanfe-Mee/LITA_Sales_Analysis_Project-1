@@ -124,6 +124,65 @@ Number of Sales Transactions in Each Region
 
 <img width="421" alt="SQL 2nd query sales" src="https://github.com/user-attachments/assets/db3d88a3-3db4-41c5-b812-f92b7c2b66bc">
 
+Highest-Selling Product by Total Sales Value
+
+
+
+
+<img width="419" alt="SQL Highest-Selling product" src="https://github.com/user-attachments/assets/655dc42b-ac85-45a1-9e3d-31640836f7a5">
+
+Total Revenue Per Product.
+---
+
+
+
+
+
+<img width="455" alt="Total Revenue per product" src="https://github.com/user-attachments/assets/69777853-eb49-4de4-a141-cda2ab031f86">
+
+Monthly Sales Totals For The Current Year.
+---
+
+
+
+<img width="432" alt="Total sales current year" src="https://github.com/user-attachments/assets/995bdddf-92a9-4b27-8d0b-47b9463a5875">
+
+Top 5 Customers By Total Purchase Amount.
+---
+
+
+
+
+
+<img width="430" alt="Top 5 products SQL" src="https://github.com/user-attachments/assets/01225903-cb31-401f-9f75-bba09b961891">
+
+Percentage Of Total Sales Contributed By Each Region.
+---
+
+
+
+
+<img width="468" alt="Percentage Sql" src="https://github.com/user-attachments/assets/30758fec-0e6c-41ab-8da2-2e17dd23af56">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products With No Sales In The Last Quarter.
+---
+<img width="368" alt="SQL No Sales products" src="https://github.com/user-attachments/assets/52246083-fb93-4a4b-aeee-199245a376b3">
+
 
 
 

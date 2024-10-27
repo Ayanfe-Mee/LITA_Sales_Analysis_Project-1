@@ -67,17 +67,17 @@ Total Revenue by Product, Region, and Month.
 Average Sales Per Product and Total Revenue by Region.
 ---
 
-<img width="255" alt="New Average sale" src="https://github.com/user-attachments/assets/708d7594-173d-4d87-aa4f-37743b564721">
-
-- Observations: Shoes and shirts have the highest average sales, while socks, jackets, hats, and gloves have significantly lower average.
-- Inferences: This may indicate that shoes and shirts are more popular in some regions, possibly due to better marketing, customer preferences or alignment with current trends. Lower averages sales for socks, hats, gloves, and jackets might suggest they are less appealing to customers or 
+<img width="334" alt="Excel average per product and total revenue by regions" src="https://github.com/user-attachments/assets/6d7ff9f4-c1e4-46f2-b322-df302e141989">
 
 
+- Observations: Shoes and shirts have the highest average sales, while socks, jackets, hats, and gloves have significantly lower average. And also, South and East regions generate the highest revenue, while North and West regions contribute less to the total.
+- Inferences: This may indicate that shoes and shirts are more popular in some regions, possibly due to better marketing, customer preferences or alignment with current trends. Lower averages sales for socks, hats, gloves, and jackets might suggest they are less appealing to customers. And also, the South and East might have a larger customer base, higher spending power or be more interested in current products. Lower revenue in the North and West could be due to lower brand awareness, or regional preferences that aren't aligned with the products offered.
+- Implications: The business owner should consider focusing marketing efforts on gloves, hats, jackets, and socks to maximize revenue. Maybe targeted marketing, or product improvements boost their sales and increase average sales. Also, for the regions, focus expansion and marketing efforts in the South and East to maintain growth, and in the North and West, business owner should consider adjusting the product lineup to suit local preferences better, increase brand awareness and running region-specific promotions to drive revenue.
 
 
 Percentage of Each Product by Total Revenue.
 ---
-<img width="367" alt="Percentage per product" src="https://github.com/user-attachments/assets/458df487-f01f-4f61-9b8c-2edfa165548c">
 
 
 
+<img width="154" alt="Excel percentage salesdata" src="https://github.com/user-attachments/assets/5b73605d-a12d-4e48-ba01-084e68489631">

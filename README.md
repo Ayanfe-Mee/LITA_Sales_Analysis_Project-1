@@ -1,4 +1,4 @@
-# LITA_Data_Analysis_Class_Project
+# LITA_Data_Analysis_Project
 
 ### Project Title: Retail_Store_Sales_Performance_Analysis
 ---

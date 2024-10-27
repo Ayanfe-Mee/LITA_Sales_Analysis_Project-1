@@ -10,9 +10,9 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 ### Objective.
 ---
 
-- Analyse Sales trends to make informed decisions such as to know high and low performing periods.
-- Identify top-performing products and regions contributing to the largest revenue.
-- Understand potential customer segments to develop effective future sales strategies.
+- To analyse Sales trends to make informed decisions such as to know high and low performing periods.
+- To identify top-performing products and regions contributing to the largest revenue.
+- To understand potential customer segments to develop effective future sales strategies.
 
 ### Tools Used
 ---

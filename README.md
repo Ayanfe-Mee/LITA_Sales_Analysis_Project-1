@@ -1,18 +1,21 @@
 # LITA_Data_Analysis_Class_Project
 
 ### Project Title: Retail_Store_Sales_Performance_Analysis
+---
 
 ### Project Overview
 
 This project focuses on Analyzing the sales performance of a retail store. It is to uncover key insights, identify trends and provide actionable insights to guide better decision-making and craft data-driven stories. Using statistical method and data visualization to explore what influence regional performance, top-selling or performing products and monthly sales trends.
 
-### Objectives
+### Objective.
+---
 
 - Analyse Sales trends to make informed decisions such as to know high and low performing periods.
 - Identify top-performing products and regions contributing to the largest revenue.
 - Understand potential customer segments to develop effective future sales strategies.
 
 ### Tools Used
+---
 
 - Microsoft Excel
   1. Data Cleaning: Removing duplicates, and standardizing formats for consistency.
@@ -48,6 +51,21 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 - Visual dashboard of sales overview, top-performing products, and regional breakdown
 
 ### Screenshots of Excel Dashboard
+Total Revenue by Product, Region, and Month.
+---
+
+<img width="173" alt="Total sale by PRM" src="https://github.com/user-attachments/assets/c3be8fef-ce75-4f70-9b7a-195541616ab0">
+
+
+Average Sales Per Product and Total Revenue by Region.
+---
+
+<img width="255" alt="New Average sale" src="https://github.com/user-attachments/assets/708d7594-173d-4d87-aa4f-37743b564721">
+
+
+Percentage of Each Product by Total Revenue.
+---
+<img width="367" alt="Percentage per product" src="https://github.com/user-attachments/assets/458df487-f01f-4f61-9b8c-2edfa165548c">
 
 
 

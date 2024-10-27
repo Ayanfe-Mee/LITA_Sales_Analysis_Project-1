@@ -71,7 +71,9 @@ Average Sales Per Product and Total Revenue by Region.
 
 
 - Observations: Shoes and shirts have the highest average sales, while socks, jackets, hats, and gloves have significantly lower average. And also, South and East regions generate the highest revenue, while North and West regions contribute less to the total.
+
 - Inferences: This may indicate that shoes and shirts are more popular in some regions, possibly due to better marketing, customer preferences or alignment with current trends. Lower averages sales for socks, hats, gloves, and jackets might suggest they are less appealing to customers. And also, the South and East might have a larger customer base, higher spending power or be more interested in current products. Lower revenue in the North and West could be due to lower brand awareness, or regional preferences that aren't aligned with the products offered.
+
 - Implications: The business owner should consider focusing marketing efforts on gloves, hats, jackets, and socks to maximize revenue. Maybe targeted marketing, or product improvements boost their sales and increase average sales. Also, for the regions, focus expansion and marketing efforts in the South and East to maintain growth, and in the North and West, business owner should consider adjusting the product lineup to suit local preferences better, increase brand awareness and running region-specific promotions to drive revenue.
 
 
@@ -79,5 +81,33 @@ Percentage of Each Product by Total Revenue.
 ---
 
 
+<img width="308" alt="Excel Percentage new" src="https://github.com/user-attachments/assets/c1e40eb1-590b-4565-91b0-a61033440ec8">
 
-<img width="154" alt="Excel percentage salesdata" src="https://github.com/user-attachments/assets/5b73605d-a12d-4e48-ba01-084e68489631">
+- Observations: 
+ 1. Shoes accounted for 29% of total sales, demonstrating strong demand and popularity among customers. 
+ 2. Shirts followed closely, contributing 23% to overall sales figures.
+ 3. South region emerged as the top-performing market, representing 44% of total sales though not across all products, with the East region also showing significant sales at 23%.
+
+- Inferences:
+  1. The high sales figures for shoes suggest effective marketing strategies targeted towards the customers base in the south region.
+  2. The regional performance indicates potential geographic advantages, such as local promotional efforts.
+
+-  Implications:
+    1. The business owners may consider focusing their marketing efforts on regions where sales are strong to capitalize on existing demand.
+    2. There is also an opportunity for increasing sales in low-performing regions by analyzing the strategies employed in successful markets.
+
+### Recommendations for Future Strategy.
+- Explore the factors contributing to the success of shoes and shirts in the South, North, and East regions to replicate these strategies in other markets.
+- Conduct further research to understand customer preferences in regions and products with lower sales to identify barriers to growth.
+
+ ### Final Thoughts
+ In conclusion, understanding the dynamics of the highest-selling products, and top-performing regions can provide, valuable insights for future business strategies. By leveraging this data, business owners can enhance their sales approaches and optimize their product offerings to maximize revenue. 
+    
+
+    
+ 
+
+
+
+
+

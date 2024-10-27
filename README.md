@@ -25,6 +25,7 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 
 - Structured Query Language
    1. Data Retrival: Writing SQL queries to extract relevant datasets for analysis, such as total sales for each product category, number of sales transactions in each region, highest-selling product, total revenue per product, monthly sales total for the current year, top five customers by total purchase amount, percentage of total sales contributed by each region, and products with no sales in the last quarter.
+   2. Data Query: For querying of data.
   
 - Power BI (Business Intelligence)
   1. Data Integration: Importing and transforming data from Excel and SQL databases, to create a unified data model for analysis.
@@ -104,9 +105,24 @@ Percentage of Each Product by Total Revenue.
  In conclusion, understanding the dynamics of the highest-selling products, and top-performing regions can provide, valuable insights for future business strategies. By leveraging this data, business owners can enhance their sales approaches and optimize their product offerings to maximize revenue. 
     
 
-    
+ ### Screenshots of SQL Queries
+ ---
+ Total Sales for Each Product Category.
+ ---
  
 
+ 
+
+<img width="395" alt="SQL Total sale" src="https://github.com/user-attachments/assets/425f1550-5104-45d6-9de7-8585c9e0161d">
+
+
+Number of Sales Transactions in Each Region
+---
+
+
+
+
+<img width="421" alt="SQL 2nd query sales" src="https://github.com/user-attachments/assets/db3d88a3-3db4-41c5-b812-f92b7c2b66bc">
 
 
 

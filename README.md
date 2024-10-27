@@ -59,7 +59,11 @@ Total Revenue by Product, Region, and Month.
 <img width="173" alt="Total sale by PRM" src="https://github.com/user-attachments/assets/c3be8fef-ce75-4f70-9b7a-195541616ab0">
 
 ### Overall Summary
-Observation: This pivot table reveals that product shoes
+- Observation: This pivot table reveals that shoes leads in sales with a peak in South region, and rise significantly in February which dropped drastically in West region in August, indicating a seasonal demand. Shirt followed with a little difference which did well in East and North regions in July and January respectively.
+- Inferences: Shoes popularity in February sales may have benefited from Valentine's Day or a seasonal promotion that boosted demand, especially when it's suitable for gifting. While shirt high demands in the East region may be due to the seasonal weather which could have increased demand for lighter clothing, and demand in north could be as a result of milder weather in January regardless different regions often have unique fashion preferences or seasonal purchasing habits.
+- Implications: To depends on these trends, the business owner should consider extending marketing efforts for lower-performing products such as socks, gloves, and jackets. And also focus more on other regions that shoes and shirt are not performing well. Additionally, it is essential for the business owner to prepare adequately for the holiday season with increased online inventory, and hire seasonal workers. 
+
+
 Average Sales Per Product and Total Revenue by Region.
 ---
 

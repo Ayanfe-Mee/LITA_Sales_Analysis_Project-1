@@ -184,6 +184,18 @@ Products With No Sales In The Last Quarter.
 ---
 <img width="368" alt="SQL No Sales products" src="https://github.com/user-attachments/assets/52246083-fb93-4a4b-aeee-199245a376b3">
 
+### Power BI Visualization.
+---
 
 
+
+<img width="534" alt="Sales_Data Visualization" src="https://github.com/user-attachments/assets/6081e47f-203d-4ea0-93b7-2940c2b0cf0c">
+
+### Recommendations for Future Strategy.
+- Explore the factors contributing to the success of shoes and shirts in the South, North, and East regions to replicate these strategies in other markets.
+- Conduct further research to understand customer preferences in regions and products with lower sales to identify barriers to growth.
+
+ ### Final Thoughts
+ In conclusion, understanding the dynamics of the highest-selling products, and top-performing regions can provide, valuable insights for future business strategies. By leveraging this data, business owners can enhance their sales approaches and optimize their product offerings to maximize revenue. 
+    
 

@@ -184,12 +184,45 @@ Products With No Sales In The Last Quarter.
 ---
 <img width="368" alt="SQL No Sales products" src="https://github.com/user-attachments/assets/52246083-fb93-4a4b-aeee-199245a376b3">
 
-### Power BI Visualization.
+### Power BI Dashboard Overview.
 ---
 
 
 
-<img width="534" alt="Sales_Data Visualization" src="https://github.com/user-attachments/assets/6081e47f-203d-4ea0-93b7-2940c2b0cf0c">
+
+<img width="485" alt="Dashboard Sales Overview" src="https://github.com/user-attachments/assets/346c9092-da3b-4c13-bb8d-802c8c6ea1fd">
+
+
+
+
+### Sales Overview.
+---
+
+
+
+
+
+
+<img width="440" alt="new sales trends visuals" src="https://github.com/user-attachments/assets/ceaec07f-eed1-4cc9-bafa-c9c70c339dd6">
+
+### Top-Performing.
+---
+
+
+
+
+<img width="468" alt="Top 5 customer dashboard" src="https://github.com/user-attachments/assets/318a41fb-cc20-4421-81d2-023657c604b3">
+
+### Regional Performance.
+---
+
+
+
+
+
+<img width="418" alt="Regional Visuals pbi" src="https://github.com/user-attachments/assets/3ea503d0-a9ab-476f-9d4a-7515f7b9bc99">
+
+
 
 ### Recommendations for Future Strategy.
 - Explore the factors contributing to the success of shoes and shirts in the South, North, and East regions to replicate these strategies in other markets.

@@ -16,7 +16,7 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 
 ### Data Source
 ---
-The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiative to empower women as 'Tech-Sis' in the technology field. The data was provided in Microsoft Excel Worksheet (.xlsx) format. It was converted to CSV before importing to SQL for simpler, cleaner, and easier to work with for direct data import into SQL databases. And for creating visuals on Power BI, Get Data was used to import data from Excel.  
+The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiative to empower women as 'Tech-Sis' in the technology field. The data was provided in Microsoft Excel Worksheet (.xlsx) format. It was converted to CSV before importing to SQL for simpler, cleaner, and easier to work with for direct data import into SQL database. And for creating visuals on Power BI, Get Data was used to import data from Excel.  
 
 ### Tools Used
 ---
@@ -42,21 +42,26 @@ The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiat
 
 - Sales Data from Capstone by LITA_TheIncubator_Hub. It includes this key columns; 
 1. OrderID: This is a unique identifier for each order.
-2. CustomerID: This is the unique identifier for each customer in the dataset, allowing for tracking customer-specific purchases and behaviors
+2. CustomerID: This is the unique identifier for each customer in the dataset, allowing for tracking customer-specific purchases and behaviors.
 3. Product: This is an item purchased by each customer.
 4. Region: This is the geographical location where the sale occured.
-5. OrderDate: This is the date of the order or sales date
-6. Quantity: It is the number of items sold
-7. UnitPrice: The price of a single product sold
-
-### Basic Statistics 
+5. OrderDate: This is the date of the order or sales date.
+6. Quantity: It is the number of items sold.
+7. UnitPrice: The price of a single product sold.
   
+### Basic Statistics About This Dataset.
+---
+1. Total Sales: 2,101,090.
+2. Total Quantity Sold: 68,461.
+3. Total Unit Price: 290,260.
+4. Average Sales: 212.
+5. Number of Customers: 501.
 
 ### Key Features
 ---
 - Interactive dashboard using PivotTables.
-- Visual representation of insights found in Excel and SQL
-- Visual dashboard of sales overview, top-performing products, and regional breakdown
+- Visual representation of insights found in Excel and SQL.
+- Visual dashboard of sales overview, top-performing products, and regional breakdown.
 
 ### Basic Statistics About This Dataset.
 ---

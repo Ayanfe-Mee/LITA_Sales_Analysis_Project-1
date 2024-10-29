@@ -20,7 +20,7 @@ The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiat
 
 ### Tools Used
 ---
-- Microsoft Excel
+- Microsoft Excel [Download Here](https.//www.microsoft.com)
   1. Data Cleaning: Removing duplicates, and standardizing formats for consistency.
   2. Data Exploration: Using pivot tables to organize, summarize, and filter the data for clear interpretation.
   3. Data Transformation: Using functions and formulas to compute new fields, categorize data, and create basic aggregations.
@@ -48,6 +48,8 @@ The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiat
   5. OrderDate: This is the date of the order or sales date
   6. Quantity: It is the number of items sold
   7. UnitPrice: The price of a single product sold
+
+### Basic Statistics 
   
 
 ### Key Features
@@ -203,11 +205,12 @@ Products With No Sales In The Last Quarter.
 ---
 
 
+<img width="436" alt="dashboard overview" src="https://github.com/user-attachments/assets/4ca2d903-7639-4158-a333-0fbc695dcede">
 
 
 
 
-<img width="440" alt="new sales trends visuals" src="https://github.com/user-attachments/assets/ceaec07f-eed1-4cc9-bafa-c9c70c339dd6">
+
 
 ### Top-Performing.
 ---
@@ -215,7 +218,11 @@ Products With No Sales In The Last Quarter.
 
 
 
-<img width="468" alt="Top 5 customer dashboard" src="https://github.com/user-attachments/assets/318a41fb-cc20-4421-81d2-023657c604b3">
+
+
+
+<img width="198" alt="Top performing new" src="https://github.com/user-attachments/assets/16514e03-8d42-4b53-85af-a433772cf7ee">
+
 
 ### Regional Performance.
 ---

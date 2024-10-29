@@ -204,8 +204,9 @@ Products With No Sales In The Last Quarter.
 
 
 
+<img width="435" alt="newest dashboard visualization" src="https://github.com/user-attachments/assets/0f370e0a-fb0e-4660-aaca-a31b03320b33">
 
-<img width="436" alt="dashboard overview" src="https://github.com/user-attachments/assets/bdaead99-8422-45ee-bb9b-9f81f608711d">
+
 
 
 
@@ -216,8 +217,9 @@ Products With No Sales In The Last Quarter.
 
 
 
+<img width="428" alt="Newest Sales overview" src="https://github.com/user-attachments/assets/27ce950a-c29d-402b-90a3-3f71c3063950">
 
-<img width="269" alt="Sales overview visuals" src="https://github.com/user-attachments/assets/9bd172fd-de6e-4a90-99bc-14ee35c72a98">
+
 
 - The monthly sales trends indicate inconsistent growth throughout the year, with notable peak in February. January sales aligns with festive period, as post-holiday shopping boosts demand for shirt while June gloves sales may rise due to outdoor activities like gardening and sports, as well as an increase in construction and home improvement projects. Demand in the food service sector during summer events combined with pontential discounts or promotions can also contribute to this seasonal trend.
 - Shoes generating 613,380 in revenue, and Shirts contributing 485,600 in revenue showcased their dominance in product lineup. 
@@ -231,8 +233,8 @@ Products With No Sales In The Last Quarter.
 
 
 
+<img width="291" alt="Top performing newest" src="https://github.com/user-attachments/assets/96520a7c-bdf8-4177-aa67-f8e64e1b2933">
 
-<img width="198" alt="Top performing new" src="https://github.com/user-attachments/assets/16514e03-8d42-4b53-85af-a433772cf7ee">
 
 
 ### Regional Performance.
@@ -241,8 +243,8 @@ Products With No Sales In The Last Quarter.
 
 
 
+<img width="205" alt="Regional breakdown newest" src="https://github.com/user-attachments/assets/adf9774c-327e-4228-a9fe-20308c30ca93">
 
-<img width="418" alt="Regional Visuals pbi" src="https://github.com/user-attachments/assets/3ea503d0-a9ab-476f-9d4a-7515f7b9bc99">
 
 
 

@@ -21,33 +21,33 @@ The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiat
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https.//www.microsoft.com)
-  1. Data Cleaning: Removing duplicates, and standardizing formats for consistency.
-  2. Data Exploration: Using pivot tables to organize, summarize, and filter the data for clear interpretation.
-  3. Data Transformation: Using functions and formulas to compute new fields, categorize data, and create basic aggregations.
-  4. Exporting Data: Preparing the cleaned dataset for further analysis in Structured Query Language (SQL) and visualization in Power BI
+1. Data Cleaning: Checked for inconsistent rows, and columns, duplicate values, and null rows. Ensured data quality by removing duplicate entries.
+2. Data Exploration: Using pivot tables to organize, summarize, and filter the data for clear interpretation.
+3. Data Transformation: Ensured all data fields were assigned the correct data types, the numerical fields formatted as accounting for ideal financial reports, expense tracking, and any data where monetary values are used, for readable presentation. Sorted the dataset by the date column to organize transaction orderly. Added a new column to calculate the total sales of each entries using Sum function: ```SUM(Quantity*UnitPrice)
+4. Exporting Data: Preparing the cleaned dataset for further analysis in Structured Query Language (SQL) and visualization in Power BI
 
 - Structured Query Language
-   1. Data Retrival: Writing SQL queries to extract relevant datasets for analysis, such as total sales for each product category, number of sales transactions in each region, highest-selling product, total revenue per product, monthly sales total for the current year, top five customers by total purchase amount, percentage of total sales contributed by each region, and products with no sales in the last quarter.
-   2. Data Query: For querying of data.
+1. Data Retrival: Writing SQL queries to extract relevant datasets for analysis, such as total sales for each product category, number of sales transactions in each region, highest-selling product, total revenue per product, monthly sales total for the current year, top five customers by total purchase amount, percentage of total sales contributed by each region, and products with no sales in the last quarter.
+2. Data Query: For querying of data.
   
 - Power BI (Business Intelligence)
-  1. Data Integration: Importing and transforming data from Excel and SQL databases, to create a unified data model for analysis.
-  2. Interactive Dashboard: To visualizes the insights found in Excel and SQL which includes a sales overview, top-selling products, and regional breakdowns.
-  3. Data Visualization: Creating various visualizations (E.g Bar charts, pie charts) to highlight important metrics such as total sales, product performance, and customer demograhics.
-  4. StoryTelling with Data: Using visual narratives to guide business owner through findings, emphasizing trends, and actionable insights that can inform business decisions.
-- GitHub: For building of portfolio
+1. Data Integration: Importing and transforming data from Excel and SQL databases, to create a unified data model for analysis.
+2. Interactive Dashboard: To visualizes the insights found in Excel and SQL which includes a sales overview, top-selling products, and regional breakdowns.
+3. Data Visualization: Creating various visualizations like bar chart, pie chart, card and matrix to highlight important metrics such as total sales, product performance, and regional breakdowns.
+4. StoryTelling with Data: Using visual narratives to guide business owner through findings, emphasizing trends, and actionable insights that can inform business decisions.
+- GitHub: For building my portfolio.
 
 ### Dataset
 ---
 
 - Sales Data from Capstone by LITA_TheIncubator_Hub. It includes this key columns; 
-  1. OrderID: This is a unique identifier for each order.
-  2. CustomerID: This is the unique identifier for each customer in the dataset, allowing for tracking customer-specific purchases and behaviors
-  3. Product: This is an item purchased by each customer.
-  4. Region: This is the geographical location where the sale occured.
-  5. OrderDate: This is the date of the order or sales date
-  6. Quantity: It is the number of items sold
-  7. UnitPrice: The price of a single product sold
+1. OrderID: This is a unique identifier for each order.
+2. CustomerID: This is the unique identifier for each customer in the dataset, allowing for tracking customer-specific purchases and behaviors
+3. Product: This is an item purchased by each customer.
+4. Region: This is the geographical location where the sale occured.
+5. OrderDate: This is the date of the order or sales date
+6. Quantity: It is the number of items sold
+7. UnitPrice: The price of a single product sold
 
 ### Basic Statistics 
   
@@ -58,6 +58,14 @@ The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiat
 - Visual representation of insights found in Excel and SQL
 - Visual dashboard of sales overview, top-performing products, and regional breakdown
 
+### Basic Statistics About This Dataset.
+---
+1. Total Sales: 2,101,090.
+2. Total Quantity Sold: 68,461.
+3. Total Unit Price: 290,260.
+4. Average Sales: 212.
+5. Number of Customers: 501.
+
 
 ### Screenshots of Excel Dashboard
 Total Revenue by Product, Region, and Month.
@@ -67,8 +75,8 @@ Total Revenue by Product, Region, and Month.
 
 ### Overall Summary
 - Observation: This pivot table reveals that shoes leads in sales with a peak in South region, and rise significantly in February which dropped drastically in West region in August, indicating a seasonal demand. Shirt followed with a little difference which did well in East and North regions in July and January respectively.
-- Inferences: Shoes popularity in February sales may have benefited from Valentine's Day or a seasonal promotion that boosted demand, especially when it's suitable for gifting. While shirt high demands in the East region may be due to the seasonal weather which could have increased demand for lighter clothing, and demand in north could be as a result of milder weather in January. Regardless different regions often have unique fashion preferences or seasonal purchasing habits.
-- Implications: To depends on these trends, the business owner should consider extending marketing efforts for lower-performing products such as socks, gloves, and jackets. And also focus more on other regions that shoes and shirt are not performing well. Additionally, it is essential for the business owner to prepare adequately for the holiday season with increased online inventory, and hire seasonal workers. 
+- Inferences: Shoes popularity in February sales may have benefited from Valentine's Day or a seasonal promotion that boosted demand, especially when it's suitable for gifting. While shirt high demands in the East region may be due to the seasonal weather which could have increased demand for lighter clothing, while demand in north could be as a result of milder weather in January. Regardless different regions often have unique fashion preferences or seasonal purchasing habits.
+- Implications: To depends on these trends, the business owner should consider extending marketing efforts for lower-performing products such as socks, gloves, and jackets. And also look into factors affecting other regions where shoes and shirt are not performing well. Additionally, it is essential for the business owner to prepare adequately for the holiday season with increased online inventory, and hire seasonal workers. 
 
 
 Average Sales Per Product and Total Revenue by Region.
@@ -196,7 +204,8 @@ Products With No Sales In The Last Quarter.
 
 
 
-<img width="485" alt="Dashboard Sales Overview" src="https://github.com/user-attachments/assets/346c9092-da3b-4c13-bb8d-802c8c6ea1fd">
+
+<img width="436" alt="dashboard overview" src="https://github.com/user-attachments/assets/bdaead99-8422-45ee-bb9b-9f81f608711d">
 
 
 
@@ -205,15 +214,17 @@ Products With No Sales In The Last Quarter.
 ---
 
 
-<img width="436" alt="dashboard overview" src="https://github.com/user-attachments/assets/4ca2d903-7639-4158-a333-0fbc695dcede">
 
 
 
+<img width="269" alt="Sales overview visuals" src="https://github.com/user-attachments/assets/9bd172fd-de6e-4a90-99bc-14ee35c72a98">
 
-
+- The monthly sales trends indicate inconsistent growth throughout the year, with notable peak in February. January sales aligns with festive period, as post-holiday shopping boosts demand for shirt while June gloves sales may rise due to outdoor activities like gardening and sports, as well as an increase in construction and home improvement projects. Demand in the food service sector during summer events combined with pontential discounts or promotions can also contribute to this seasonal trend.
+- Shoes generating 613,380 in revenue, and Shirts contributing 485,600 in revenue showcased their dominance in product lineup. 
 
 ### Top-Performing.
 ---
+- In this sales performance analysis, shoes and shirts emerged as the top-performing categories, driving the majority of revenue during the reporting period. Together accounting for 52.31% of sales which is more than half of the revenue. Shoes have proven particularly strong, reflecting consumer trends towards casual and athletic wear, while shirts have benefitted from increasing demand for sustainable options. Recent marketing campaigns may have effectively engaged customers, contributing to this success. Expectation for continued growth in these categories means more targeted strategies and seasonal promotions.
 
 
 

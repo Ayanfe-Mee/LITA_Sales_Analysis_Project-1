@@ -111,13 +111,7 @@ Percentage of Each Product by Total Revenue.
     1. The business owners may consider focusing their marketing efforts on regions where sales are strong to capitalize on existing demand.
     2. There is also an opportunity for increasing sales in low-performing regions by analyzing the strategies employed in successful markets.
 
-### Recommendations for Future Strategy.
-- Explore the factors contributing to the success of shoes and shirts in the South, North, and East regions to replicate these strategies in other markets.
-- Conduct further research to understand customer preferences in regions and products with lower sales to identify barriers to growth.
 
- ### Final Thoughts
- In conclusion, understanding the dynamics of the highest-selling products, and top-performing regions can provide, valuable insights for future business strategies. By leveraging this data, business owners can enhance their sales approaches and optimize their product offerings to maximize revenue. 
-    
 
  ### Screenshots of SQL Queries
  ---
@@ -245,14 +239,11 @@ Products With No Sales In The Last Quarter.
 
 <img width="205" alt="Regional breakdown newest" src="https://github.com/user-attachments/assets/adf9774c-327e-4228-a9fe-20308c30ca93">
 
+- The regional breakdown reveals that South region leads in sales, contributing 44.16% to total revenue, driven by strong demand for casual footwear and gloves. Meanwhile, West region is lagging at 14.29% of total sales mostly due to heightened competition and economic downturns. Seasonal Trends indicate that East and North region see peaks in winter and summer, respectively suggesting targeted marketing opportunities. Overally, regions with tailored strategies have shown positive growth, while others may require re-evaluation of their market approach to capitalize on emerging trends. 
 
 
-
-### Recommendations for Future Strategy.
-- Explore the factors contributing to the success of shoes and shirts in the South, North, and East regions to replicate these strategies in other markets.
-- Conduct further research to understand customer preferences in regions and products with lower sales to identify barriers to growth.
-
- ### Final Thoughts
- In conclusion, understanding the dynamics of the highest-selling products, and top-performing regions can provide, valuable insights for future business strategies. By leveraging this data, business owners can enhance their sales approaches and optimize their product offerings to maximize revenue. 
+### Summary
+---
+- In conclusion, this analysing indicates a strong sales performance for shoes and shirts, driven by customer trends and effective marketing strategies. Regional insights reveal opportunities for growth and challanges that need addressing. By leveraging targeted promotions and understanding market dynamics, business owner can enhance sales performance and customer engagement moving forward. Continuous monitoring of sales trends and customer preferences will be essential in adapting these strategies to ensure sustained growth.
     
 

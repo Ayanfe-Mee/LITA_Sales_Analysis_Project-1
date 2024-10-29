@@ -14,9 +14,12 @@ This project focuses on Analyzing the sales performance of a retail store. It is
 - To identify top-performing products and regions contributing to the largest revenue.
 - To understand potential customer segments to develop effective future sales strategies.
 
+### Data Source
+---
+The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiative to empower women as 'Tech-Sis' in the technology field. The data was provided in Microsoft Excel Worksheet (.xlsx) format. It was converted to CSV before importing to SQL for simpler, cleaner, and easier to work with for direct data import into SQL databases. And for creating visuals on Power BI, Get Data was used to import data from Excel.  
+
 ### Tools Used
 ---
-
 - Microsoft Excel
   1. Data Cleaning: Removing duplicates, and standardizing formats for consistency.
   2. Data Exploration: Using pivot tables to organize, summarize, and filter the data for clear interpretation.

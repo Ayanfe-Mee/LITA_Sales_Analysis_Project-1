@@ -250,5 +250,10 @@ Products With No Sales In The Last Quarter.
 ### Summary
 ---
 - In conclusion, this analysing indicates a strong sales performance for shoes and shirts, driven by customer trends and effective marketing strategies. Regional insights reveal opportunities for growth and challanges that need addressing. By leveraging targeted promotions and understanding market dynamics, business owner can enhance sales performance and customer engagement moving forward. Continuous monitoring of sales trends and customer preferences will be essential in adapting these strategies to ensure sustained growth.
-    
+
+
+
+
+    [LITA Capstone Dataset.xlsx](https://github.com/user-attachments/files/17562108/LITA.Capstone.Dataset.xlsx)
+
 

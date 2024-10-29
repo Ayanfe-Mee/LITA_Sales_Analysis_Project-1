@@ -154,8 +154,9 @@ Top 5 Customers By Total Purchase Amount.
 
 
 
+<img width="636" alt="Top 5 Customer sql sales" src="https://github.com/user-attachments/assets/019d3b10-93d9-469a-8b9a-b252ff77532c">
 
-<img width="430" alt="Top 5 products SQL" src="https://github.com/user-attachments/assets/01225903-cb31-401f-9f75-bba09b961891">
+
 
 Percentage Of Total Sales Contributed By Each Region.
 ---

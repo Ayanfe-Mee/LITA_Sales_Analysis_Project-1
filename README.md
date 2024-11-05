@@ -63,14 +63,6 @@ The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiat
 - Visual representation of insights found in Excel and SQL.
 - Visual dashboard of sales overview, top-performing products, and regional breakdown.
 
-### Basic Statistics About This Dataset.
----
-1. Total Sales: 2,101,090.
-2. Total Quantity Sold: 68,461.
-3. Total Unit Price: 290,260.
-4. Average Sales: 212.
-5. Number of Customers: 501.
-
 
 ### Screenshots of Excel Dashboard
 Total Revenue by Product, Region, and Month.

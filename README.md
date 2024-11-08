@@ -3,7 +3,36 @@
 ### Project Title: Retail_Store_Sales_Performance_Analysis
 ---
 
-### Project Overview
+Table Outline.
+---
+[Project Overview](#project-overview)
+
+[Objective](#objective)
+
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Dataset](#dataset)
+
+[Basic Statistics About This Dataset](#basic-statistics-about-this-dataset)
+
+[Key Features](#key-features)
+
+[Screenshots of Excel Dashboard](#screenshots-of-excel-dashboard)
+
+[Overall Summary](#overall-summary)
+
+[Screenshots of SQL Queries](#screenshots-of-sql-queries)
+
+[Power BI Dashboard Overview](#power-bi-dashboard-overview)
+
+[Summary](#summary)
+
+
+
+### Project Overview.
+---
 
 This project focuses on Analyzing the sales performance of a retail store. It is to uncover key insights, identify trends and provide actionable insights to guide better decision-making and craft data-driven stories. Using statistical method and data visualization to explore what influence regional performance, top-selling or performing products and monthly sales trends.
 
@@ -57,7 +86,7 @@ The dataset for this analysis was provided by LITA the_Incubator-Hub, an initiat
 4. Average Sales: 212.
 5. Number of Customers: 501.
 
-### Key Features
+### Key Features.
 ---
 - Interactive dashboard using PivotTables.
 - Visual representation of insights found in Excel and SQL.
@@ -114,11 +143,14 @@ Percentage of Each Product by Total Revenue.
  ---
  Total Sales for Each Product Category.
  ---
- 
 
- 
 
-<img width="395" alt="SQL Total sale" src="https://github.com/user-attachments/assets/425f1550-5104-45d6-9de7-8585c9e0161d">
+
+
+
+
+ <img width="395" alt="SQL Total sale" src="https://github.com/user-attachments/assets/2ad88ac9-c988-4875-b515-f66403c3f992">
+
 
 
 Number of Sales Transactions in Each Region
